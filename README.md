@@ -1,5 +1,5 @@
 <h1 align="center">My name is Nqinn</h1>
-<h3 align="center">You can call me Nain or Nine instead</h3>
+<h3 align="center">You can call me Nain or Nine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
